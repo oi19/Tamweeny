@@ -1,7 +1,7 @@
 import React from 'react';
 import AppNav from './src/navigation/navigation';
 import { Provider } from 'react-redux'
-import { store } from './redux/configration';
+import { store } from './src/redux/configration';
 
 
 
