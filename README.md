@@ -1,17 +1,17 @@
 # Tamweeny Project:
   
-  - This is a Food E-Commerce App including different food categories with diff items for each category with many features such as 
-  -      - fav product 
+  - This is a Food E-Commerce App for better easier online food shopping 
+  - using (Redux) for dynamic state manegement 
+  - Adding the ability to toggle between screens using navigation stucture (StackNavigator, BottomTabNavigator,tobTabNavigator)
+  - including many features such as :
+         - fav product 
          - add to cart 
          - choose product amount
          - rate product 
          - add new address 
          - edit adress 
-         - support Arabic and English 
+         - support Arabic and English languages 
          
-    
-  - Adding the abitlity toggle between screens using navigation stucture (SwitchNavigator,StackNavigator, BottomTabNavigator
-  
   
   # Project Structure 
   
@@ -49,7 +49,7 @@
 
 # Setup
 
-Generate react-native app for android 
+Ganerate react-native app for android 
    ```shell script
 create-react-native-app 'project-name'
 ```
