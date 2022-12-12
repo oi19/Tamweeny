@@ -4,13 +4,13 @@
   - using (Redux) for dynamic state manegement 
   - Adding the ability to toggle between screens using navigation stucture (StackNavigator, BottomTabNavigator,tobTabNavigator)
   - including many features such as :
-         - fav product 
-         - add to cart 
-         - choose product amount
-         - rate product 
-         - add new address 
-         - edit adress 
-         - support Arabic and English languages 
+      - fav product 
+      - add to cart 
+      - choose product amount
+      - rate product 
+      - add new address 
+      - edit adress 
+      - support Arabic and English languages 
          
   
   # Project Structure 
