@@ -1,4 +1,4 @@
-# Tamweeny Project:
+# Tamweeny :
   
   - This is a Food E-Commerce App for better easier online food shopping 
   - using (Redux) for dynamic state manegement 
