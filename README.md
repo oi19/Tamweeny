@@ -1,7 +1,7 @@
-# Tamweeny :
+# Tamweeny:
   
-  - This is a Food E-Commerce App for better easier online food shopping 
-  - using (Redux) for dynamic state manegement 
+  - This is a Food E-Commerce App for better and easier online food shopping 
+  - using (Redux) for dynamic state management 
   - Adding the ability to toggle between screens using navigation stucture (StackNavigator, BottomTabNavigator,tobTabNavigator)
   - including many features such as :
       - fav product 
@@ -9,14 +9,15 @@
       - choose product amount
       - rate product 
       - add new address 
-      - edit adress 
-      - support Arabic and English languages 
+      - edit adress & account info (including contact info and changing password )
+      - support Arabic and English languages  (Internationalization)
+      
          
   
   # Project Structure 
   
   ## App.js 
-   - This file creates the app structure by creating app Container and the Navigation structure as well as the state managment whether context(Providers) or redux 
+   -this file creates the app structure by creating app Container and the Navigation structure as well as the state managment whether context(Providers) or redux 
   
   
   ## src folder           
